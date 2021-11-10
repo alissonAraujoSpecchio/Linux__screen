@@ -23,6 +23,11 @@ Destroy current session:
 CTRL-a k
 ```
 
+Split screen horizontally
+```
+CTRL-a S
+```
+
 ## List screens
 ```
 screen -list
